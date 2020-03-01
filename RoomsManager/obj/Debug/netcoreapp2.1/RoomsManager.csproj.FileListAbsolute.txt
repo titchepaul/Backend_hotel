@@ -1,0 +1,15 @@
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\bin\Debug\netcoreapp2.1\RoomsManager.deps.json
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\bin\Debug\netcoreapp2.1\RoomsManager.runtimeconfig.json
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\bin\Debug\netcoreapp2.1\RoomsManager.runtimeconfig.dev.json
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\bin\Debug\netcoreapp2.1\RoomsManager.dll
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\bin\Debug\netcoreapp2.1\RoomsManager.pdb
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\obj\Debug\netcoreapp2.1\RoomsManager.csproj.CoreCompileInputs.cache
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\obj\Debug\netcoreapp2.1\RoomsManager.RazorAssemblyInfo.cache
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\obj\Debug\netcoreapp2.1\RoomsManager.RazorAssemblyInfo.cs
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\obj\Debug\netcoreapp2.1\RoomsManager.AssemblyInfoInputs.cache
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\obj\Debug\netcoreapp2.1\RoomsManager.AssemblyInfo.cs
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\obj\Debug\netcoreapp2.1\RoomsManager.RazorTargetAssemblyInfo.cache
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\obj\Debug\netcoreapp2.1\RoomsManager.dll
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\obj\Debug\netcoreapp2.1\RoomsManager.pdb
+C:\Users\pault\source\repos\RoomsManager\RoomsManager\obj\Debug\netcoreapp2.1\RoomsManager.csprojAssemblyReference.cache

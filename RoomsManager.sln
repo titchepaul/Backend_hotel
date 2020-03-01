@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomsManager", "RoomsManager\RoomsManager.csproj", "{451E79A4-09E6-4135-868B-DDFAEA98337F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{451E79A4-09E6-4135-868B-DDFAEA98337F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451E79A4-09E6-4135-868B-DDFAEA98337F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451E79A4-09E6-4135-868B-DDFAEA98337F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451E79A4-09E6-4135-868B-DDFAEA98337F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FB39536-EF51-4D61-9FD5-790A3A71A6DA}
+	EndGlobalSection
+EndGlobal
